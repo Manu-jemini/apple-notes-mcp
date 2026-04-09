@@ -1,0 +1,19 @@
+# Compiled output
+dist/
+
+# Dependencies
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Env / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
